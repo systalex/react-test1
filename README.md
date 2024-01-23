@@ -19,7 +19,7 @@ Basic React Test # 1
    * (For this test, you don't need to post data back to the API. Just simulate the addition in the frontend.)
 
 4.  Styling
-   * Apply basic styling to your application. Feel free to use plain CSS or any CSS framework of your choice.
+   * Apply U.S. Web Design System (USWDS) (https://designsystem.digital.gov/)
    
 5.  State Management
     * Use React state and/or Context API to manage the state of your application.
