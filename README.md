@@ -3,7 +3,9 @@ Basic React Test # 1
 
 ## React Coding Test: Task Description
 
-## Objective: Build a simple React application that displays a list of items fetched from an API and allows the user to add new items to the list. Ship the app to a github repo with install instructions.
+## Objective: 
+1. Build a simple React application that displays a list of items fetched from an API and allows the user to add new items to the list. 
+2. Ship the app to a github repo with install instructions.
 
 ### Requirements:
 
